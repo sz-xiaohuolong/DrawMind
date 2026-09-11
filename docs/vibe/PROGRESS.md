@@ -4,6 +4,7 @@
 
 - Current Release: `v0.1.0`
 - Current Requirement Baseline: [README.md](file:///Users/daiyifei/Documents/code/llms/DrawMind/README.md)
+- GitHub Repository: [https://github.com/sz-xiaohuolong/DrawMind](https://github.com/sz-xiaohuolong/DrawMind)
 - Current Workflow State: `RELEASED`
 - Operational Status: `ACTIVE`
 - Current Phase: `Maintenance / Ready for New Tasks`
