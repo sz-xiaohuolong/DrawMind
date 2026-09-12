@@ -2,7 +2,7 @@
 
 > 自然语言 → **可编辑的 draw.io 图表**。内置真正的 draw.io 编辑器，支持多轮对话增量修改、双向同步、Undo/Redo、导入导出。
 
-![diagram: ChatGPT + draw.io](https://img.shields.io/badge/chatgpt-%2B-draw.io) ![stack](https://img.shields.io/badge/React-TS-Vite-Tailwind-Zustand)
+![AI Diagram](https://img.shields.io/badge/AI%20Diagram-ChatGPT%20%2B%20draw.io-blue) ![Stack](https://img.shields.io/badge/Stack-React%20%7C%20TS%20%7C%20Vite%20%7C%20Tailwind-informational) ![Tests](https://img.shields.io/badge/Tests-71%20Passed-brightgreen)
 
 ## 项目介绍
 
@@ -23,7 +23,7 @@ AI 永远不直接吐整段 XML：模型输出结构化 **Diagram Operations**�
 | 后端 | Node.js + Express（`/api/chat` AI 代理 + 生产静态托管） |
 | 编辑器 | 官方 draw.io Embed Mode（`embed.diagrams.net/?embed=1&proto=json`） |
 | AI | DeepSeek V4.1 Flash（火山方舟 OpenAI 兼容端点）/ 离线 MockProvider |
-| 测试 | Vitest（单元+集成 59 例）· Playwright E2E（5 条全链路） |
+| 测试 | Vitest（单元+集成 71 例）· Playwright E2E（5 条全链路） |
 
 ## 快速开始
 
